@@ -18,7 +18,7 @@ Program de criptare și decriptare bazat pe deplasarea literelor alfabetului.
 ## 5.Detector de distanță cu senzor ultrasonic și filtrare digitală în MATLAB - https://github.com/TudorMituleci/PROIECT-Detector-de-distanta-cu-senzor-si-filtrare-in-MATLAB.git
 Sistem de detectare a distantei folosind un senzor ultrasonic HC-SR04 si filtrare digitala in timp real in MATLAB.
 
-#Laboratoare
+# Laboratoare
 
 ## Referate Laboratoare - https://github.com/TudorMituleci/Laboratoare_OrCAD_Facultate.git
   Acest repository conține două referate cu exerciții rezolvate în cadrul laboratoarelor la materia MODELE SPICE, utilizând OrCAD Capture și OrCAD PCB Editor pentru simularea și proiectarea circuitelor electronice.
